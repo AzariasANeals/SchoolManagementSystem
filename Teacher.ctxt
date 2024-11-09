@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Teacher
+comment0.text=\r\n\ This\ is\ the\ Teacher\ class.\r\n\ This\ includes\ the\ teacher\ name\ and\ and\ the\ subject\ they\ teach.\ You\ can\ also\r\n\ call\ a\ getName()\ function\ to\ receive\ the\ name,\ and\ a\ getSubject()\ function\r\n\ to\ receive\ the\ subject\ the\ teacher\ teaches.\r\n
+comment1.params=name\ subject
+comment1.target=Teacher(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getSubject()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

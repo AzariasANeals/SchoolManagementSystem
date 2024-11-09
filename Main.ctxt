@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ To\ run\ this\ program,\ first\ create\ a\ new\ Student()\ and\ a\ new\ Teacher().\r\n\ Then\ create\ a\ Department()\ and\ a\ School().\ Then\ add\ the\ teacher\ and\ students\r\n\ to\ the\ department,\ and\ finally\ add\ the\ department\ to\ the\ school.\ Then\ you\ just\r\n\ do\ a\ System.out.println()\ of\ the\ school\ and\ it\ will\ call\ a\ toString()\ method,\ and\ \r\n\ will\ display\ a\ list\ of\ the\ teacher,\ student,\ department,\ and\ school.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

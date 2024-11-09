@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=School
+comment0.text=\r\n\ The\ School\ class.\ This\ includes\ the\ name\ of\ the\ school,\ a\ list\ of\ the\ departments,\ and\ the\r\n\ ability\ to\ add\ a\ department\ or\ get\ a\ list\ of\ all\ the\ departments.\r\n
+comment1.params=name
+comment1.target=School(java.lang.String)
+comment2.params=dept
+comment2.target=void\ addDepartment(Department)
+comment3.params=
+comment3.target=java.util.ArrayList\ getAllDepartments()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=d
+comment5.target=void\ addDepartmentList(java.util.ArrayList)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

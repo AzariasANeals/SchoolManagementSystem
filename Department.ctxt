@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Department
+comment0.text=\r\n\ This\ is\ the\ Department\ class.\ This\ includes\ the\ name\ of\ the\ department,\ a\ list\ of\ \r\n\ teachers,\ and\ a\ list\ of\ students.\ You\ are\ also\ able\ to\ add\ a\ new\ teacher\ and\ add\ a\ \r\n\ new\ student\ as\ well.\ You\ can\ also\ call\ the\ getter\ functions\ to\ get\ a\ list\ of\ all\ of\ the\r\n\ teachers\ and\ a\ list\ of\ all\ of\ the\ students.\r\n
+comment1.params=name
+comment1.target=Department(java.lang.String)
+comment2.params=newTeacher
+comment2.target=void\ addTeacher(Teacher)
+comment3.params=newStudent
+comment3.target=void\ addStudent(Student)
+comment4.params=name
+comment4.target=void\ setName(java.lang.String)
+comment5.params=
+comment5.target=java.util.ArrayList\ getAllTeachers()
+comment6.params=
+comment6.target=java.util.ArrayList\ getAllStudents()
+comment7.params=
+comment7.target=java.lang.String\ getName()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
